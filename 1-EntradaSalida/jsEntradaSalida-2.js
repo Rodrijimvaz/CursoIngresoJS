@@ -2,8 +2,13 @@
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
-var aceptar = ("Confirmar")	;
+var aceptar;
 aceptar = prompt ("Desea Continuar");
+alert (aceptar);
+
+
+
+
 
 
 }
